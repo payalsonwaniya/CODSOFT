@@ -23,3 +23,25 @@ A basic Python program that simulates image captioning using a simple rule-based
 - Easy to extend with real AI models in future
 
 🧠 This is a simple simulation project created as part of the **CodSoft AI Internship**.
+
+---
+
+## 🚀 Task 4 – Movie Recommendation System
+
+This task is a Content-Based Movie Recommendation System built using Python and machine learning.
+
+### 🔧 Technologies:
+- Python
+- pandas
+- scikit-learn
+
+### 🎯 Features:
+- Takes movie name as input
+- Recommends 3 similar movies based on genres
+- Uses TF-IDF Vectorization + Cosine Similarity
+
+### 📁 Files:
+- recommend.py (main code)
+- movies.csv (dataset)
+
+✅ Created by Payal Sonvaniya
