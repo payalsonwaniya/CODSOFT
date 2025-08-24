@@ -45,3 +45,19 @@ This task is a Content-Based Movie Recommendation System built using Python and 
 - movies.csv (dataset)
 
 ✅ Created by Payal Sonvaniya
+
+
+### Task 5 – Face Detection System
+
+🔍 This Python project uses OpenCV and Haar Cascades to detect human faces in an image.
+
+📁 Files:
+- face_detect.py
+- haarcascade_frontalface_default.xml
+- face.jpg (test image)
+
+💡 Libraries used: OpenCV
+
+🛠️ Output: It highlights the detected face in a green rectangle.
+
+
